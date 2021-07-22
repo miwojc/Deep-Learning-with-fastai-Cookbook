@@ -36,7 +36,7 @@ select_relationship.innerHTML += "<option value=\""
 **Following is what you need for this book:**
 This book is for data scientists, machine learning developers, and deep learning enthusiasts looking to explore the fastai framework using a recipe-based approach. Working knowledge of the Python programming language and machine learning basics is strongly recommended to get the most out of this deep learning book.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-8).
 
 ### Software and Hardware List
 
@@ -55,7 +55,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Automated Machine Learning [[Packt]](https://www.packtpub.com/product/automated-machine-learning/9781800567689) [[Amazon]](https://www.amazon.com/dp/1800567685)
 
-## Get to Know the Authors
+## Get to Know the Author
 **Mark Ryan**
 is a machine learning practitioner and technology manager who is passionate about delivering end-to-end deep learning applications that solve real-world problems. Mark has worked on deep learning projects that incorporate a variety of related technologies, including Rasa chatbots, web applications, and messenger platforms. As a strong believer in democratizing technology, Mark advocates for Keras and fastai as accessible frameworks that open up deep learning to non-specialists. Mark has a degree in computer science from the University of Waterloo and a Master of Science degree in computer science from the University of Toronto.
 
