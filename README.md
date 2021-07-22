@@ -1,6 +1,6 @@
 # Deep Learning with fastai Cookbook
 
-<a href="packtpub.com/product/deep-learning-with-fastai-cookbook/9781800208100"><img src="Cover Image URL of the Book" alt=" Deep Learning with fastai Cookbook" height="256px" align="right"></a>
+<a href="packtpub.com/product/deep-learning-with-fastai-cookbook/9781800208100"><img src="https://static.packt-cdn.com/products/9781800208100/cover/smaller" alt=" Deep Learning with fastai Cookbook" height="256px" align="right"></a>
 
 This is the code repository for [ Deep Learning with fastai Cookbook](https://www.packtpub.com/product/deep-learning-with-fastai-cookbook/9781800208100), published by Packt.
 
@@ -15,7 +15,7 @@ This book covers the following exciting features:
 * Create recommender systems with fastai
 * Find out how to assess whether fastai is a good fit for a given problem
 * Deploy fastai deep learning models in web applications
-* 
+
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1800208103) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
@@ -42,24 +42,14 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
-| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 10        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 11        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 12        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 13        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 1        | Python 3.7                    | Windows or Linux |
+| 2        | Python libraries: pandas,folium           | Windows or Linux |
+| 3        | Jupyter notebook           | Windows, Mac OS X, and Linux (Any) |
+| 4        | Cloud deep learning environment: Paperspace Gradient, Google Collabratory          |Windows or Linux |
+| 5        | Deep learning frameworks, fastai, PyTorch, Keras            | Windows or Linux |
 
-
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/
+files/downloads/Bookname_ColorImages.pdf).
 
 ### Related products <Other books you may enjoy>
 * Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
