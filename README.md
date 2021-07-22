@@ -1,6 +1,6 @@
 # Deep Learning with fastai Cookbook
 
-<a href="packtpub.com/product/deep-learning-with-fastai-cookbook/9781800208100"><img src="https://static.packt-cdn.com/products/9781800208100/cover/smaller" alt=" Deep Learning with fastai Cookbook" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/deep-learning-with-fastai-cookbook/9781800208100"><img src="https://static.packt-cdn.com/products/9781800208100/cover/smaller" alt=" Deep Learning with fastai Cookbook" height="256px" align="right"></a>
 
 This is the code repository for [ Deep Learning with fastai Cookbook](https://www.packtpub.com/product/deep-learning-with-fastai-cookbook/9781800208100), published by Packt.
 
